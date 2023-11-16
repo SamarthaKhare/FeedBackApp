@@ -1,0 +1,5 @@
+
+A React feedback application is a platform built using the React JavaScript library that enables users to provide feedback, suggestions,
+or opinions on various topics or services. It typically includes a user-friendly interface where individuals can submit their feedback 
+through forms, ratings, or comments.
+Used Json Server to mimick the backend server 
